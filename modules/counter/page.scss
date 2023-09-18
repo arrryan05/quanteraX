@@ -1,0 +1,73 @@
+.extradiv {
+
+    height: 29rem;
+    width: 100%;
+    // background-color: pink;
+
+    
+
+
+}
+
+
+.extrainner {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    opacity: 1;
+    color: rgba(0, 0, 0, 1);
+
+
+
+    .dataone {
+        margin-right: 4.8rem;
+        text-align: end;
+    }
+
+    .datatwo {
+        margin-right: 4.8rem;
+        text-align: end;
+    }
+
+    .datathree {
+        margin-right: 4.8rem;
+        text-align: end;
+    }
+
+
+
+
+}
+
+.innerpara {
+    margin-top: 6rem;
+
+    h4 {
+        opacity: 1;
+        color: rgba(0, 0, 0, 0.396152);
+        // font-family: "Urbanist-Black";
+        font-size: 60px;
+        font-weight: 900;
+        font-style: italic;
+        // letter-spacing: 5.6px;
+        text-align: center;
+        width: 53rem;
+        margin: auto;
+    }
+
+    p {
+        opacity: 1;
+        color: rgba(0, 0, 0, 0.396152);
+        font-family: "Urbanist-Black";
+        font-size: 29px;
+        font-weight: 900;
+        font-style: normal;
+        letter-spacing: -0.6px;
+        text-align: center;
+        width: 50%;
+        margin: auto;
+        margin-top: 3.125rem;
+
+    }
+}
+
